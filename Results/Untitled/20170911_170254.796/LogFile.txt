@@ -1,0 +1,8 @@
+﻿2017-09-11 17:02:54.803 +0300	START		Running Untitled.script
+2017-09-11 17:02:55.564 +0300	click	Rpmpmhpriiprnamp	at (843, 414)	1	on_untitled	Untitled.script
+2017-09-11 17:02:56.364 +0300	typetext		iuliatest	2	on_untitled	Untitled.script
+2017-09-11 17:02:57.757 +0300	click	HKememcerusername	at (841, 460)	3	on_untitled	Untitled.script
+2017-09-11 17:02:58.589 +0300	typetext		playtech2017	4	on_untitled	Untitled.script
+2017-09-11 17:02:59.722 +0300	click	image0001	at (845, 497)	5	on_untitled	Untitled.script
+2017-09-11 17:02:59.745 +0300	EndTestCase		(Duration:"4.939", Errors:"0", Exceptions:"0", StartTime:"2017-09-11 17:02:54 +0300", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-09-11 17:02:59.787 +0300	SUCCESS		Execution Time 0:00:05 Untitled.script

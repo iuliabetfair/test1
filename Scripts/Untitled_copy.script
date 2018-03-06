@@ -1,0 +1,21 @@
+﻿Click (Image:"Rpmpmhpriiprnamp", WaitFor:187)
+TypeText "iuliatest"
+Click "HKememcerusername"
+TypeText "playtech2017"
+Click (Image:"image0001", WaitFor:10.6)
+Click (Image:"6Holdem", WaitFor:5)
+Click (Image:"ASixPlusCashNLSixPlusHoldemSta", WaitFor:5)
+Click (Image:"image0002", WaitFor:2.5)
+Click "image0003"
+Click "AutoTopup"
+Click "image0004"
+Click "image0005"
+If ImageFound(Image:"Call", WaitFor:3.8) then
+	Click Image:"Call"
+else if ImageFound(Image:"Check", WaitFor:30)
+	Click "Check"	
+End if
+Click (Image:"Check", WaitFor:30)
+Click (Image:"Fold", WaitFor:30)
+Click (Image:"Fold_1", WaitFor:10)
+Click (Image:"image0007", WaitFor:20)

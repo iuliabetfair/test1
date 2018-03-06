@@ -1,0 +1,16 @@
+﻿2017-09-11 17:23:40.424 +0300	START		Running Untitled.script
+2017-09-11 17:23:41.002 +0300	click	Rpmpmhpriiprnamp	at (843, 414)	1	on_untitled	Untitled.script
+2017-09-11 17:23:41.800 +0300	typetext		iuliatest	2	on_untitled	Untitled.script
+2017-09-11 17:23:42.992 +0300	click	HKememcerusername	at (841, 460)	3	on_untitled	Untitled.script
+2017-09-11 17:23:43.824 +0300	typetext		playtech2017	4	on_untitled	Untitled.script
+2017-09-11 17:23:45.022 +0300	click	image0001	at (845, 497)	5	on_untitled	Untitled.script
+2017-09-11 17:23:48.185 +0300	click	6Holdem	at (531, 310)	6	on_untitled	Untitled.script
+2017-09-11 17:23:50.309 +0300	click	ASixPlusCashNLSixPlusHoldemSta	at (526, 576)	7	on_untitled	Untitled.script
+2017-09-11 17:23:52.583 +0300	click	image0002	at (703, 433)	8	on_untitled	Untitled.script
+2017-09-11 17:23:53.489 +0300	click	image0003	at (703, 433)	9	on_untitled	Untitled.script
+2017-09-11 17:23:54.504 +0300	click	AutoTopup	at (490, 448)	10	on_untitled	Untitled.script
+2017-09-11 17:23:55.642 +0300	imagefound	image0004	found at (667, 543)	11	on_untitled	Untitled.script
+2017-09-11 17:23:55.840 +0300	click	image0004	at (667, 543)	12	on_untitled	Untitled.script
+2017-09-11 17:24:19.436 +0300	Exception	image0004	No Image Found On Screen: "image0004"	16	on_untitled	Untitled.script
+2017-09-11 17:24:19.490 +0300	EndTestCase		(Duration:"39.063", Errors:"1", Exceptions:"1", StartTime:"2017-09-11 17:23:40 +0300", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-09-11 17:24:20.166 +0300	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "image0004" -- Execution Time 0:00:39 Untitled.script

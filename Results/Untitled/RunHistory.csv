@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-09-11 17:02:13.005 +0300,"Running",0:00:00,0,0,0,"20170911_170213.005/LogFile.txt","","",0
+2017-09-11 17:02:21.516 +0300,"Running",0:00:00,0,0,0,"20170911_170221.516/LogFile.txt","","",0
+2017-09-11 17:02:54.796 +0300,"Success",0:00:04,0,0,0,"20170911_170254.796/LogFile.txt","","",1
+2017-09-11 17:08:52.723 +0300,"Running",0:00:00,0,0,0,"20170911_170852.723/LogFile.txt","","",0
+2017-09-11 17:23:40.420 +0300,"Failure",0:00:39,1,0,1,"20170911_172340.420/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0004""",0
+2017-09-11 17:25:20.768 +0300,"Running",0:00:00,0,0,0,"20170911_172520.768/LogFile.txt","","",0
+2017-09-11 17:26:24.883 +0300,"Running",0:00:00,0,0,0,"20170911_172624.883/LogFile.txt","","",0
+2017-09-11 17:26:48.576 +0300,"Failure",0:00:33,1,0,1,"20170911_172648.576/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0002""",0

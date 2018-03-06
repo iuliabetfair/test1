@@ -1,0 +1,14 @@
+﻿2017-09-11 17:28:26.128 +0300	START		Running Untitled.script
+2017-09-11 17:28:26.646 +0300	click	Rpmpmhpriiprnamp	at (843, 414)	1	on_untitled	Untitled.script
+2017-09-11 17:28:27.445 +0300	typetext		iuliatest	2	on_untitled	Untitled.script
+2017-09-11 17:28:28.644 +0300	click	HKememcerusername	at (841, 460)	3	on_untitled	Untitled.script
+2017-09-11 17:28:29.476 +0300	typetext		playtech2017	4	on_untitled	Untitled.script
+2017-09-11 17:28:30.689 +0300	click	image0001	at (845, 497)	5	on_untitled	Untitled.script
+2017-09-11 17:28:33.654 +0300	click	6Holdem	at (531, 310)	6	on_untitled	Untitled.script
+2017-09-11 17:28:35.714 +0300	click	ASixPlusCashNLSixPlusHoldemSta	at (526, 576)	7	on_untitled	Untitled.script
+2017-09-11 17:28:37.565 +0300	click	image0002	at (703, 433)	8	on_untitled	Untitled.script
+2017-09-11 17:28:38.527 +0300	click	image0003	at (703, 433)	9	on_untitled	Untitled.script
+2017-09-11 17:28:39.642 +0300	click	AutoTopup	at (490, 448)	10	on_untitled	Untitled.script
+2017-09-11 17:28:50.409 +0300	Exception	image0005	No Image Found On Screen: "image0005"	11	on_untitled	Untitled.script
+2017-09-11 17:28:50.459 +0300	EndTestCase		(Duration:"24.326", Errors:"1", Exceptions:"1", StartTime:"2017-09-11 17:28:26 +0300", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-09-11 17:28:50.460 +0300	ABORTED		Execution Time 0:00:24 Untitled.script

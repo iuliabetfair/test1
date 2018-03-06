@@ -1,0 +1,15 @@
+﻿2017-09-11 17:08:52.726 +0300	START		Running Untitled.script
+2017-09-11 17:08:53.231 +0300	click	Rpmpmhpriiprnamp	at (843, 414)	1	on_untitled	Untitled.script
+2017-09-11 17:08:54.030 +0300	typetext		iuliatest	2	on_untitled	Untitled.script
+2017-09-11 17:08:55.188 +0300	click	HKememcerusername	at (841, 460)	3	on_untitled	Untitled.script
+2017-09-11 17:08:56.020 +0300	typetext		playtech2017	4	on_untitled	Untitled.script
+2017-09-11 17:08:57.237 +0300	click	image0001	at (845, 497)	5	on_untitled	Untitled.script
+2017-09-11 17:09:00.241 +0300	click	6Holdem	at (531, 310)	6	on_untitled	Untitled.script
+2017-09-11 17:09:02.434 +0300	click	ASixPlusCashNLSixPlusHoldemSta	at (526, 576)	7	on_untitled	Untitled.script
+2017-09-11 17:09:04.737 +0300	click	image0002	at (703, 433)	8	on_untitled	Untitled.script
+2017-09-11 17:09:05.645 +0300	click	image0003	at (703, 433)	9	on_untitled	Untitled.script
+2017-09-11 17:09:06.651 +0300	click	AutoTopup	at (490, 448)	10	on_untitled	Untitled.script
+2017-09-11 17:09:07.591 +0300	click	image0004	at (667, 543)	11	on_untitled	Untitled.script
+2017-09-11 17:09:08.502 +0300	click	image0005	at (723, 408)	12	on_untitled	Untitled.script
+2017-09-11 17:10:42.892 +0300	EndTestCase		(Duration:"110.164", Errors:"1", Exceptions:"0", StartTime:"2017-09-11 17:08:52 +0300", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-09-11 17:10:42.894 +0300	ABORTED		Execution Time 0:01:50 Untitled.script
